@@ -5,7 +5,7 @@
     <link>https://cronicavasca.elespanol.com/empresas/</link>
     <description>Noticias de la sección Empresas de Crónica Vasca</description>
     <language>es</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:18:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:21:12 +0000</lastBuildDate>
     <item>
       <title>GES firma contratos fotovoltaicos de 225 millones en Aragón y Comunidad Valenciana</title>
       <link>https://cronicavasca.elespanol.com/empresas/20261015/ges-contratos-fotovoltaicos-millones-aragon-comunidad-valenciana/1003742803044_0.html</link>
@@ -847,6 +847,20 @@
       <description>El banco vasco realiza su segunda emisión de deuda del año en el marco de su estrategia financiera para responder al crecimiento previsto</description>
     </item>
     <item>
+      <title>Los españoles quieren formación en IA en el trabajo, el 73% valora positivamente que su empresa la facilite</title>
+      <link>https://cronicavasca.elespanol.com/empresas/20260909/espanoles-quieren-formacion-ia-trabajo-positivamente-facilite/1003742793188_0.html</link>
+      <guid isPermaLink="false">915c0c59e4b8635bcaf9c45116cb0468041ba7da349ccb3c1c0a0b3ad32fc4eb</guid>
+      <pubDate>Wed, 09 Sep 2026 17:58:30 +0200</pubDate>
+      <description>España figura entre los mercados con mayor predisposición de los trabajadores a recibir formación en IA en el entorno laboral, según un estudio de eDreams ODIGEO</description>
+    </item>
+    <item>
+      <title>La irrupción de los agentes de IA obliga a las empresas a resolver dos retos clave: gobernanza y escalabilidad</title>
+      <link>https://cronicavasca.elespanol.com/empresas/20260909/irrupcion-agentes-ia-empresas-resolver-gobernanza-escalabilidad/1003742793183_0.html</link>
+      <guid isPermaLink="false">a2f36ec2aa85180881e54d2e4f0f14d7f38a5dd56b86f6b2fb7bee94e419ddfe</guid>
+      <pubDate>Wed, 09 Sep 2026 17:54:31 +0200</pubDate>
+      <description>La inteligencia artificial ya participa en tres de cada diez tareas empresariales El salto hacia sistemas autónomos exige definir reglas claras y contar con infraestructuras capaces de integrarlos a escala</description>
+    </item>
+    <item>
       <title>BQUO, el programa de aceleración de startups de Dominion, se alía con Kategora para lanzar su cuarta edición</title>
       <link>https://cronicavasca.elespanol.com/empresas/20260909/bquo-programa-aceleracion-startups-dominion-kategora-edicion/1003742793073_0.html</link>
       <guid isPermaLink="false">33faf35539feb44dc2200e7caeedd5a2e00e13b90953cca85c92a323825ae25b</guid>
@@ -1041,20 +1055,6 @@
       <guid isPermaLink="false">6e6a0b718b9972431ce5555df7ecce3581ad55e487df9fb5b957e97618855975</guid>
       <pubDate>Mon, 31 Aug 2026 05:00:00 +0200</pubDate>
       <description>La empresa de recuperación de metales preciosos arranca su actividad en septiembre y estará a pleno rendimiento a finales de 2026 Más información: El Gobierno vasco prepara la reactivación de Calcinor en Arcelor Zumárraga para el primer trimestre de 2027</description>
-    </item>
-    <item>
-      <title>Esta empresa es una mina: así fabrica una industria vasca acero para monedas de todo el mundo</title>
-      <link>https://cronicavasca.elespanol.com/empresas/20260831/empresa-fabrica-industria-vasca-acero-monedas-mundo/1003742789278_0.html</link>
-      <guid isPermaLink="false">f38e7a6839b8523a985d39d2fd3ed912b6b2bc6f91aeef5f00a00b293f465036</guid>
-      <pubDate>Mon, 31 Aug 2026 05:00:00 +0200</pubDate>
-      <description>Pese al crecimiento del pago con tarjeta o con el móvil, el Grupo Arania ha consolidado este segmento como una actividad clave de la compañía Ana Guinea (Arania): &amp;quot;Trabajamos para que cada empresa tenga su gama baja en emisiones&amp;quot;</description>
-    </item>
-    <item>
-      <title>Así avanza la construcción de Labraza: Euskadi levanta las primeras torres eólicas en 20 años</title>
-      <link>https://cronicavasca.elespanol.com/empresas/20260830/avanza-construccion-labraza-euskadi-levanta-primeras-eolicas/1003742789674_0.html</link>
-      <guid isPermaLink="false">39cbd53ffb6d334b00f6f0248a4f7d2b163dff1e0b1fd5ef36d23eeb19576d0c</guid>
-      <pubDate>Sun, 30 Aug 2026 05:00:00 +0200</pubDate>
-      <description>El parque eólico de Labraza tendrá ocho aerogeneradores de 5MW cada uno que generarán 40MW de potencia El parque eólico de Labraza avanza con la llegada de las primeras palas de los aerogeneradores</description>
     </item>
   </channel>
 </rss>
